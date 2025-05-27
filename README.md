@@ -56,19 +56,29 @@ npm run dev
 
 Then open your browser and visit http://localhost:3000
 
+---
+
 ## 📤 Deployment
 The project is automatically deployed on Vercel. Every push to the main branch triggers a new production deployment.
+
+---
 
 ## 👨‍💻 Author
 Eujin Rod Sagun
 GitHub: @seijidavinci
 
+---
+
 ## 🤝 Contributing
 Contributions are welcome! Feel free to open issues or submit pull requests to help improve Everlink.
+
+---
 
 ## 📞 Contact
 For questions or support, please reach out at:
 ✉️ contact@everlink.com
+
+---
 
 ## ⚖️ License
 This project is licensed under the MIT License — see the LICENSE file for details.
