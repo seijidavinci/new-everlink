@@ -1,6 +1,7 @@
 # Everlink Telco Inc.
 
-Everlink is a sleek, web-based link management platform that allows users to organize and share multiple URLs through a single, elegant page — perfect for personal bios, portfolios, or professional networking.
+**Connecting People, Empowering Communities**
+EverLink Telecom Inc. is a growing telecommunications company dedicated to delivering reliable and innovative connectivity solutions. Our mission is to bridge communication gaps and provide cutting-edge technology that enhances lives.
 
 ---
 
@@ -38,25 +39,23 @@ git clone https://github.com/seijidavinci/new-everlink.git
 cd new-everlink
 npm install
 npm run dev
+```
 
 Then open your browser and visit http://localhost:3000
 
-📤 Deployment
+## 📤 Deployment
 The project is automatically deployed on Vercel. Every push to the main branch triggers a new production deployment.
 
-👨‍💻 Author
+## 👨‍💻 Author
 Eujin Rod Sagun
 GitHub: @seijidavinci
 
-🤝 Contributing
+## 🤝 Contributing
 Contributions are welcome! Feel free to open issues or submit pull requests to help improve Everlink.
 
-📞 Contact
+## 📞 Contact
 For questions or support, please reach out at:
 ✉️ contact@everlink.com
 
-⚖️ License
+## ⚖️ License
 This project is licensed under the MIT License — see the LICENSE file for details.
-
-Thank you for checking out Everlink!
-Building better link management, one URL at a time.
