@@ -1,6 +1,7 @@
 # Everlink Telco Inc.
 
 **Connecting People, Empowering Communities**
+
 EverLink Telecom Inc. is a growing telecommunications company dedicated to delivering reliable and innovative connectivity solutions. Our mission is to bridge communication gaps and provide cutting-edge technology that enhances lives.
 
 ---
