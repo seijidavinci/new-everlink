@@ -1,6 +1,4 @@
-# Everlink
-
-[![Vercel](https://vercelbadge.vercel.app/api/seijidavinci/new-everlink)](https://everlink-eujinrodlsagun-gmailcoms-projects.vercel.app/)
+# Everlink Telco Inc.
 
 Everlink is a sleek, web-based link management platform that allows users to organize and share multiple URLs through a single, elegant page — perfect for personal bios, portfolios, or professional networking.
 
