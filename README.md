@@ -23,14 +23,14 @@ Check out the live version here:
 ---
 
 ## 🌟 Website Features
-- User-Friendly Navigation: Clear menu structure for easy access to Home, Jobs, Apply, Application Status, and About Us pages.
-- Job Listings & Details: Browse available positions with detailed descriptions, requirements, and application options.
-- Online Job Application: Simple, streamlined application form to submit your details directly through the website.
-- Application Status Tracking: Applicants can check the progress of their job applications in real-time.
-- About Us Section: Learn about EverLink Telecom’s mission, values, and team culture.
-- Responsive Design: Optimized for seamless experience on desktop, tablet, and mobile devices.
-- Contact Information: Easy access to company contact details for inquiries and support.
-- Legal Pages: Includes Privacy Policy and Terms of Service for transparency and compliance.
+- **User-Friendly Navigation:** Clear menu structure for easy access to Home, Jobs, Apply, Application Status, and About Us pages.
+- **Job Listings & Details:** Browse available positions with detailed descriptions, requirements, and application options.
+- **Online Job Application:** Simple, streamlined application form to submit your details directly through the website.
+- **Application Status Tracking:** Applicants can check the progress of their job applications in real-time.
+- **About Us Section:** Learn about EverLink Telecom’s mission, values, and team culture.
+- **Responsive Design:** Optimized for seamless experience on desktop, tablet, and mobile devices.
+- **Contact Information:** Easy access to company contact details for inquiries and support.
+- **Legal Pages:** Includes Privacy Policy and Terms of Service for transparency and compliance.
 
 ---
 
