@@ -20,6 +20,8 @@ export interface PersonalProfile {
   motherName: string
   emergencyContactName?: string // Optional
   emergencyContactNumber?: string // Optional
+  languages?: string[] // Additional field not in data dictionary
+  skills?: string[] // Additional field not in data dictionary
 }
 
 // Education
